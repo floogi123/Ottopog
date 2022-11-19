@@ -1,0 +1,10 @@
+
+.bot{
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.top{
+    left: 50%;
+    transform: translateX(-50%);
+}
